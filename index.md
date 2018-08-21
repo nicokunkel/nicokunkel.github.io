@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## About
+After receiving a B.A. in German and Frensh Studies (2014) and an M.A. in German Studies (2017), **I am currently a PhD Student at the University of Konstanz, Germany**. My research focuses on Narratology, Medieval German Literature, and Digital Philology. In my dissertation I work on seriality and mouvance in the late medieval framed narrative "Historia Septem Sapientum" by combining hermeneutic and quantitative methods.
 
-You can use the [editor on GitHub](https://github.com/nicokunkel/nicokunkel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Resume ([Download CV]())
+<dl>
+<dt>PhD Studies in Medieval German Studies, University of Konstanz</dt>
+<dd>08/2017 - today</dd>
+  
+<dt>M.A. in Literary Studies (German Literature), University of Konstanz</dt>
+<dd>10/2014 - 06/2017</dd>
 
-### Markdown
+<dt>Exchange Scholar, Yale University</dt>
+<dd>08/2015 - 01/2016</dd>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<dt>B.A. in German Literature / French Studies, University of Konstanz</dt>
+<dd>10/2011 - 11/2014</dd>
+</dl>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nicokunkel/nicokunkel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
