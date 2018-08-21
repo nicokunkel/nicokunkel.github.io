@@ -3,7 +3,7 @@ After receiving a B.A. in German and Frensh Studies (2014) and an M.A. in German
 
 ***
 
-## Resume ([Download CV](http://nico.kunkel.de/doc/cv.pdf))
+## Resume ([Download CV](http://doc.nicokunkel.de/cv.pdf))
 <dl>
 <dt>PhD Studies in Medieval German Studies, University of Konstanz</dt>
 <dd>08/2017 - today</dd>
