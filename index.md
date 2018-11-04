@@ -5,7 +5,7 @@ After receiving a B.A. in German and French Studies (2014) and an M.A. in German
 
 ## Resume ([Download CV](http://doc.nicokunkel.de/cv.pdf))
 <dl>
-<dt>Research Assistant (Chair of Prof. Dr. Bent Gebert), University of Konstanz</dt>
+<dt>Research Assistant (Chair of Professor Gebert), University of Konstanz</dt>
 <dd>10/2018 - today</dd>  
   
 <dt>PhD Studies in Medieval German Studies, University of Konstanz</dt>
