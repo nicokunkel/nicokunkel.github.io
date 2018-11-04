@@ -1,10 +1,13 @@
 ## About
-After receiving a B.A. in German and French Studies (2014) and an M.A. in German Studies (2017), **I am currently a PhD Student at the University of Konstanz, Germany**. My research focuses on Narratology, Medieval German Literature, and Digital Philology. In my dissertation I work on seriality and mouvance in the late medieval framed narrative "Historia Septem Sapientum" by combining hermeneutic and quantitative methods.
+After receiving a B.A. in German and French Studies (2014) and an M.A. in German Studies (2017), **I am currently a Research Assistant and PhD Student at the University of Konstanz, Germany**. My research focuses on Narratology, Medieval German Literature, and Digital Philology. In my dissertation I work on seriality and mouvance in the late medieval framed narrative "Historia Septem Sapientum" by combining hermeneutic and quantitative methods.
 
 ***
 
 ## Resume ([Download CV](http://doc.nicokunkel.de/cv.pdf))
 <dl>
+<dt>Research Assistant (Chair of Prof. Dr. Bent Gebert), University of Konstanz</dt>
+<dd>10/2018 - today</dd>  
+  
 <dt>PhD Studies in Medieval German Studies, University of Konstanz</dt>
 <dd>08/2017 - today</dd>
   
