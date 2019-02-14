@@ -3,7 +3,7 @@ After receiving a B.A. in German and French Studies (2014) and an M.A. in German
 
 ***
 
-## Resume [[English](http://doc.nicokunkel.de/Kunkel-Nico_CV-engl.pdf)) ([German](http://doc.nicokunkel.de/Kunkel-Nico_CV-dt.pdf)]
+## Resume [[English](http://doc.nicokunkel.de/Kunkel-Nico_CV-engl.pdf) | [German](http://doc.nicokunkel.de/Kunkel-Nico_CV-dt.pdf)]
 <dl>
 <dt>Research Assistant (Chair of Professor Gebert), University of Konstanz</dt>
 <dd>10/2018 - today</dd>  
