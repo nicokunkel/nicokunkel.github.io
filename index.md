@@ -20,5 +20,3 @@ After receiving a B.A. in German and French Studies (2014) and an M.A. in German
 <dt>B.A. in German Literature / French Studies, University of Konstanz</dt>
 <dd>10/2011 - 11/2014</dd>
 </dl>
-
-
